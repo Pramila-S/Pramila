@@ -39,8 +39,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pramila-S&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiriti04&layout=compact)](https://github.com/Pramila-S/github-readme-stats) -->
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Pramila-S.pramila-S" alt="visitors"></p>
